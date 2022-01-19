@@ -1,4 +1,5 @@
 # Vue 3 + Typescript + Vite
+[![Updated Badge](https://badges.pufler.dev/updated/victorlmneves/vue3-vite-boilerplate)](https://badges.pufler.dev) [![Created Badge](https://badges.pufler.dev/created/victorlmneves/vue3-vite-boilerplate)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/victorlmneves)](https://badges.pufler.dev) [![Visits Badge](https://badges.pufler.dev/visits/victorlmneves/vue3-vite-boilerplate)](https://badges.pufler.dev)
 
 <p align='center'>
   <img src='https://avatars.githubusercontent.com/u/17341789?v=4' alt='Victor Neves - Frontend developer' width='460'/>
