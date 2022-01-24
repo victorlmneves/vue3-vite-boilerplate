@@ -21,8 +21,6 @@ Vue 3 with TS and Vite boilerplate<br>
 
 - 🔥 Use the [new `<script setup>` syntax](https://github.com/vuejs/rfcs/pull/227)
 
-- 🦔 Critical CSS via [critters](https://github.com/GoogleChromeLabs/critters)
-
 - 🦾 TypeScript
 
 - ⚙️ Unit Testing with [Jest](https://github.com/facebook/jest), E2E Testing with [Cypress](https://cypress.io)
@@ -49,7 +47,6 @@ Vue 3 with TS and Vite boilerplate<br>
 - [TypeScript](https://www.typescriptlang.org/)
 - [Jest](https://github.com/facebook/jest - Unit testing
 - [Cypress](https://cypress.io/) - E2E testing
-  - [critters](https://github.com/GoogleChromeLabs/critters) - Critical CSS
 - [Netlify](https://www.netlify.com/) - zero-config deployment
 - [VS Code Extensions](./.vscode/extensions.json)
   - [Vite](https://marketplace.visualstudio.com/items?itemName=antfu.vite) - Fire up Vite server automatically
