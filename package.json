@@ -33,7 +33,7 @@
     "precommit": "yarn lint && yarn test && yarn build"
   },
   "dependencies": {
-    "pinia": "^2.0.9",
+    "pinia": "^2.0.10",
     "vue": "^3.2.27",
     "vue-router": "^4.0.12"
   },
