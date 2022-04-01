@@ -35,7 +35,7 @@
   "dependencies": {
     "pinia": "^2.0.10",
     "vue": "^3.2.27",
-    "vue-router": "^4.0.12"
+    "vue-router": "^4.0.14"
   },
   "devDependencies": {
     "@cypress/vite-dev-server": "^2.2.2",
