@@ -67,7 +67,7 @@
     "postcss-html": "^1.3.0",
     "prettier": "^2.5.1",
     "rollup-plugin-visualizer": "^5.5.2",
-    "snyk": "^1.826.0",
+    "snyk": "^1.996.0",
     "start-server-and-test": "^1.14.0",
     "stylelint": "^14.2.0",
     "stylelint-config-html": "^1.0.0",
